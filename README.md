@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **girobh@gmail.com**
 
-- Connect with me: **https://linkedin.com/in/girobh**
+- 🖥️ Connect with me: **https://linkedin.com/in/girobh**
 
 - 👨‍💻 All of my projects are available at **https://medium.com/@girobh**
 
