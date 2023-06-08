@@ -43,3 +43,15 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://www.chef.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef" width="40" height="40"/> </a>
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+
+<h3 align="left">Certifications:</h3>
+<p align="left"> 
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Autonomous%20Database%20Cloud%202021%20Certified%20Specialist.png?raw=true" alt="oci"/> </a>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Data%20Management%202022%20Foundations%20Certified%20Associate.png?raw=true" alt="oci"/> </a>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Database%20Services%202021%20Certified%20Specialist.png?raw=true" alt="oci" width="251" height="267"/> </a>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202021%20Certified%20Architect%20Associate.png?raw=true" alt="oci" width="251" height="267"/> </a>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202021%20Certified%20Architect%20Professional.png?raw=true" alt="oci"/> </a>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202021%20Certified%20Cloud%20Operations%20Associate.png?raw=true" alt="oci" width="251" height="267"/> </a>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202023%20Certified%20Architect%20Associate.png?raw=true" alt="oci"/> </a>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202023%20Certified%20Foundations%20Associate.png?raw=true" alt="oci"/> </a>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%20Foundations%202021%20Certified%20Associate.png?raw=true" alt="oci" width="251" height="267"/> </a>
