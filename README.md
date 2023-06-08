@@ -44,7 +44,12 @@
 <a href="https://www.chef.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef" width="40" height="40"/> </a>
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
 
-<h3 align="left">Certifications:</h3>
+<h3 align="left">Microsoft Certifications:</h3>
+<p align="left"> <b>
+
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Microsoft_Badge/blob/main/Microsoft%20Certified%20Azure%20Fundamentals.png?raw=true" alt="oci" width="251" height="267"/> </a>
+
+<h3 align="left">Oracle Certifications:</h3>
 <p align="left"> <b>
   
 * Beginner
