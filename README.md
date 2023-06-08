@@ -29,7 +29,6 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oci" width="40" height="40"/> </a>
 
-
 <h3 align="left">DevOps:</h3>
 <p align="left"> 
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
@@ -43,13 +42,17 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://www.chef.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef" width="40" height="40"/> </a>
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+  
+  
 
-<h3 align="left">Microsoft Certifications:</h3>
+<h1 align="center">Certifications</h1>
+
+<h3 align="left">Microsoft:</h3>
 <p align="left"> <b>
 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Microsoft_Badge/blob/main/Microsoft%20Certified%20Azure%20Fundamentals.png?raw=true" alt="oci" width="251" height="267"/> </a>
 
-<h3 align="left">Oracle Certifications:</h3>
+<h3 align="left">Oracle:</h3>
 <p align="left"> <b>
   
 * Beginner
