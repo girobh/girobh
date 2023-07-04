@@ -76,4 +76,6 @@
   
 <a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Autonomous%20Database%20Cloud%202021%20Certified%20Specialist.png?raw=true" alt="oci"/> </a>
 <a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Database%20Services%202021%20Certified%20Specialist.png?raw=true" alt="oci" width="251" height="267"/> </a>
-  </b>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Autonomous%20Database%20Cloud%202023%20Professional.png?raw=true" alt="oci"/> </a>
+
+</b>
