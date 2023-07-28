@@ -57,9 +57,11 @@
   
 * Beginner
   
-<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%20Foundations%202021%20Certified%20Associate.png?raw=true" alt="oci" width="251" height="267"/> </a>
-<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Data%20Management%202022%20Foundations%20Certified%20Associate.png?raw=true" alt="oci"/> </a>
+
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Data%20Management%202023%20Foundations%20Associate.png?raw=true" alt="oci" width="251" height="267"/> </a>
 <a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202023%20Certified%20Foundations%20Associate.png?raw=true" alt="oci"/> </a>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Data%20Management%202022%20Foundations%20Certified%20Associate.png?raw=true" alt="oci"/> </a>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%20Foundations%202021%20Certified%20Associate.png?raw=true" alt="oci" width="251" height="267"/> </a>
   
 * Intermediate
   
