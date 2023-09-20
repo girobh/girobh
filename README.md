@@ -14,17 +14,15 @@
 
 - 👨‍💻 All of my projects are available at **https://medium.com/@girobh**
 
-- Cloud Infrastructure & DevOps Engineer
-
 - I am a seasoned IT professional with over 20 years of experience in IT implementation, design, administration, and resource management. My expertise spans on-premises and cloud environments, allowing me to provide comprehensive solutions in both areas.
 
-- Experienced Cloud Infrastructure Engineer with a proven track record in optimizing cloud architecture for enhanced scalability and cost efficiency. Proficient in providing technical support and troubleshooting for end users, while also managing user accounts, groups, and email systems. Skilled in deploying and maintaining operating systems, applications, and software. Adept at implementing automation solutions for continuous integration and deployment, utilizing tools like Jenkins, Docker, Terraform, Ansible, and more. Extensive experience in cloud platforms including AWS, Microsoft Azure, Google Cloud, and Oracle Cloud. Strong background in disaster recovery planning and IT procedure development.
+- Experienced Cloud Infrastructure Engineer with a proven track record in optimizing cloud architecture for enhanced scalability and cost efficiency. Proficient in providing technical support and troubleshooting for end users while also managing user accounts, groups, and email systems. Skilled in deploying and maintaining operating systems, applications, and software. Adept at implementing automation solutions for continuous integration and deployment, utilizing tools like Jenkins, Docker, Terraform, Ansible, and more. Extensive experience in cloud platforms, including AWS, Microsoft Azure, Google Cloud, and Oracle Cloud. Strong background in disaster recovery planning and IT procedure development.
 
 - Proven ability to liaise with stakeholders, ensuring seamless execution of projects within stipulated timeframes and budgets. Adept at driving innovation to elevate user experience and support corporate objectives. Skilled in translating technical requirements into actionable solutions and advocating for technological upgrades.
 
-- Feel free to connect with me on LinkedIn to explore opportunities and discuss how I can contribute to your organization's success.
+- As a dedicated IT professional, I am passionate about staying ahead of industry trends and advancements. I am committed to continuous learning and professional growth, enabling me to provide cutting-edge solutions and value to the organizations I serve. Please feel free to connect with me on LinkedIn to explore opportunities and discuss how I can contribute to your organization's success. I am a problem-solving-oriented person. I can overcome challenges even if I don't have the knowledge to do so, but I can learn whatever I need to solve the problem and move to the next one. This is my professional and life goal to overcome challenges thrown at me, no matter what. In general, I am very patient and an easy person to deal with. To put it simply, my objective is to get things done. So, how can I help?
 
-- As a dedicated IT professional, I am passionate about staying ahead of industry trends and advancements. I am committed to continuous learning and professional growth, as it enables me to provide cutting-edge solutions and value to the organizations I serve. Feel free to connect with me on LinkedIn to explore opportunities and discuss how I can contribute to your organization's success. I am a problem-solving-oriented person. I like to think that I can overcome challenges even if I don't have the knowledge to do so, but I can learn what ever I need to solve the problem and move to the next one. This is my goal, professionally, and in life, one might say, to overcome challenges thrown at me, no matter what. In general, I am very patient and an easy person to deal with. To put it simple, my objective is to get things done. So, how can I help?
+- Please feel free to connect with me on LinkedIn to explore opportunities and discuss how I can contribute to your organization's success.
 
 <h1 align="center">Skills</h1>
 
