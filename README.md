@@ -2,7 +2,7 @@
 
 - 📍 Born and raised in Brazil but living in Canada since 2018
 
-- 🏢 Currently working as Cloud Engineer at Cloud IT and Thinkdox Inc.
+- 🏢 Currently working as Cloud Infrastructure Engineer at Thinkdox Inc.
 
 - 🌱 I’m currently learning **DevOps**
 
