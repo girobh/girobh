@@ -47,7 +47,11 @@
 <a href="https://www.chef.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="chef" /> </a>
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" /> </a>
   
-  
+<h1 align="center">Projects</h1>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg" alt="aws"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp"/> </a>
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oci"/> </a>
 
 <h1 align="center">Certifications</h1>
 
