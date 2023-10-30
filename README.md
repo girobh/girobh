@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Igor Araujo Lima</h1>
+<h1 align="center">Hi, 👋 Welcome to my profile! Let's start with an intriguing hook! I'm Igor Araujo Lima</h1>
 
 - 📍 Born and raised in Brazil but living in Canada since 2018
 
@@ -14,13 +14,17 @@
 
 - 👨‍💻 All of my projects are available at **https://medium.com/@girobh**
 
-- I am a seasoned IT professional with over 20 years of experience in IT implementation, design, administration, and resource management. My expertise spans on-premises and cloud environments, allowing me to provide comprehensive solutions in both areas.
+- I have gained extensive experience in cloud infrastructure engineering, DevOps, and IT architecture throughout my career. I thrive in dynamic environments where I can leverage my technical expertise to drive successful outcomes. Imagine this: I have successfully maintained and monitored a complex network infrastructure environment, managed Windows computers and peripherals, and configured workstations for employees. Additionally, I have played a crucial role in migrating company files to the cloud, maximizing efficiency and security.
 
-- Experienced Cloud Infrastructure Engineer with a proven track record in optimizing cloud architecture for enhanced scalability and cost efficiency. Proficient in providing technical support and troubleshooting for end users while also managing user accounts, groups, and email systems. Skilled in deploying and maintaining operating systems, applications, and software. Adept at implementing automation solutions for continuous integration and deployment, utilizing tools like Jenkins, Docker, Terraform, Ansible, and more. Extensive experience in cloud platforms, including AWS, Microsoft Azure, Google Cloud, and Oracle Cloud. Strong background in disaster recovery planning and IT procedure development.
+- I have excelled at deploying scalable and highly available software products as a DevOps engineer. I have built and managed infrastructure as code using AWS and Microsoft Azure, ensuring optimal performance and reducing downtime. Through implementing CI/CD pipelines and automating deployment processes, I have achieved impressive uptime for cloud-based applications, increasing productivity by 25%.
 
-- Proven ability to liaise with stakeholders, ensuring seamless execution of projects within stipulated timeframes and budgets. Adept at driving innovation to elevate user experience and support corporate objectives. Skilled in translating technical requirements into actionable solutions and advocating for technological upgrades.
+- As a senior cloud architect, I have provided technical support and troubleshooting while enhancing processes and procedures to drive efficiency. I have developed IT strategies to meet organizational objectives and implemented security protocols for systems and data networks. I have significantly improved system performance and reliability by analyzing existing IT systems and implementing upgrades and migrations.
 
-- As a dedicated IT professional, I am passionate about staying ahead of industry trends and advancements. I am committed to continuous learning and professional growth, enabling me to provide cutting-edge solutions and value to the organizations I serve. Please feel free to connect with me on LinkedIn to explore opportunities and discuss how I can contribute to your organization's success. I am a problem-solving-oriented person. I can overcome challenges even if I don't have the knowledge to do so, but I can learn whatever I need to solve the problem and move to the next one. This is my professional and life goal to overcome challenges thrown at me, no matter what. In general, I am very patient and an easy person to deal with. To put it simply, my objective is to get things done. So, how can I help?
+- My experience as a senior IT infrastructure architect has allowed me to contribute to innovation strategies and improve website user experience. I have coordinated projects, communicated with stakeholders, and supported users with problem resolution and education. Leveraging social network marketing, I have successfully increased the number of customers by 100% within a week.
+
+- Looking ahead, I am passionate about leveraging my expertise in cloud infrastructure, DevOps, and IT architecture to drive business success. I am eager to take on new challenges, collaborate with cross-functional teams, and deliver innovative solutions that optimize performance and enhance user experiences.
+
+- Thank you for taking the time to explore my profile. Let's connect and explore how we can achieve remarkable success together!
 
 - Please feel free to connect with me on LinkedIn to explore opportunities and discuss how I can contribute to your organization's success.
 
