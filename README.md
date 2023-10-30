@@ -1,4 +1,4 @@
-<h1 align="center">Hi, 👋 Welcome to my profile! Let's start with an intriguing hook! I'm Igor Araujo Lima</h1>
+<h1 align="center">Hi, 👋 Welcome to my profile! I'm Igor Araujo Lima</h1>
 
 - 📍 Born and raised in Brazil but living in Canada since 2018
 
