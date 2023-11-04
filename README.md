@@ -4,7 +4,7 @@
 
 - 🏢 Currently working as Cloud Infrastructure Engineer at Thinkdox Inc.
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Cloud Computing and Application at Metro College of Technology in Toronto/ON**
 
 - 💬 Ask me about **#devops, #aws, #azure, #googlecloud, and #oraclecloud**
 
