@@ -22,7 +22,7 @@
 
 * **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, Bash, Python.
 
-* **Web Designer: ** HTML, CSS, Javascript.
+* **Web Designer:** HTML, CSS, Javascript.
 
 * **Technical Support:** Windows, Linux, Mac OS, hardware/software troubleshooting, network connectivity.
 
