@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Cloud Computing and Application at Metro College of Technology in Toronto/ON**
 
-- 💬 Ask me about **#devops, #aws, #azure, #googlecloud, and #oraclecloud**
-
 - 📑 9x Oracle Cloud Certified | Microsoft Azure Certified
 
 - 📧 How to reach me **girobh@gmail.com**
