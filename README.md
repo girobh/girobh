@@ -22,6 +22,8 @@
 
 * **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, Bash, Python.
 
+* **Web Designer: ** HTML, CSS, Javascript.
+
 * **Technical Support:** Windows, Linux, Mac OS, hardware/software troubleshooting, network connectivity.
 
 * **Project Management:** IT infrastructure upgrades, system migrations, security protocols, disaster recovery planning.
