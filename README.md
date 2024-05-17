@@ -18,7 +18,7 @@
 
 <h1>Skills and Expertise:</h1>
 
-* **Cloud Platforms:** Microsoft Azure, Google Cloud Platform (GCP), Amazon Web Services (AWS).
+* **Cloud Platforms:** Microsoft Azure, Google Cloud Platform (GCP), Amazon Web Services (AWS) and Oracle Cloud Infrastructure (OCI).
 
 * **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, Bash, Python.
 
