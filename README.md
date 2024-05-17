@@ -8,23 +8,39 @@
 
 - 💬 Ask me about **#devops, #aws, #azure, #googlecloud, and #oraclecloud**
 
-- 📫 How to reach me **girobh@gmail.com**
+- 📑 9x Oracle Cloud Certified | Microsoft Azure Certified
+
+- 📧 How to reach me **girobh@gmail.com**
 
 - 🖥️ Connect with me: **https://linkedin.com/in/girobh**
 
 - 👨‍💻 All of my projects are available at **https://medium.com/@girobh**
 
-- I have gained extensive experience in cloud infrastructure engineering, DevOps, and IT architecture throughout my career. I thrive in dynamic environments where I can leverage my technical expertise to drive successful outcomes. Imagine this: I have successfully maintained and monitored a complex network infrastructure environment, managed Windows computers and peripherals, and configured workstations for employees. Additionally, I have played a crucial role in migrating company files to the cloud, maximizing efficiency and security.
+- With over two decades of extensive experience in IT and cloud infrastructure, I have honed a comprehensive skill set that encompasses everything from technical support and troubleshooting to the design and implementation of advanced cloud solutions. My career journey has allowed me to work with diverse technologies and in various roles, steadily building a reputation as a reliable, efficient, and innovative professional in the tech industry.
 
-- I have excelled at deploying scalable and highly available software products as a DevOps engineer. I have built and managed infrastructure as code using AWS and Microsoft Azure, ensuring optimal performance and reducing downtime. Through implementing CI/CD pipelines and automating deployment processes, I have achieved impressive uptime for cloud-based applications, increasing productivity by 25%.
+<h1>Skills and Expertise:</h1>
 
-- As a senior cloud architect, I have provided technical support and troubleshooting while enhancing processes and procedures to drive efficiency. I have developed IT strategies to meet organizational objectives and implemented security protocols for systems and data networks. I have significantly improved system performance and reliability by analyzing existing IT systems and implementing upgrades and migrations.
+* **Cloud Platforms:** Microsoft Azure, Google Cloud Platform (GCP), Amazon Web Services (AWS).
 
-- My experience as a senior IT infrastructure architect has allowed me to contribute to innovation strategies and improve website user experience. I have coordinated projects, communicated with stakeholders, and supported users with problem resolution and education. Leveraging social network marketing, I have successfully increased the number of customers by 100% within a week.
+* **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, Bash, Python.
 
-- Looking ahead, I am passionate about leveraging my expertise in cloud infrastructure, DevOps, and IT architecture to drive business success. I am eager to take on new challenges, collaborate with cross-functional teams, and deliver innovative solutions that optimize performance and enhance user experiences.
+* **Technical Support:** Windows, Linux, Mac OS, hardware/software troubleshooting, network connectivity.
 
-- Thank you for taking the time to explore my profile. Let's connect and explore how we can achieve remarkable success together!
+* **Project Management:** IT infrastructure upgrades, system migrations, security protocols, disaster recovery planning.
+
+* **Customer Service:** High-level problem solving, end-user training, customer satisfaction improvement
+
+<h1>Achievements:</h1>
+
+* Successfully maintained a large-scale IT infrastructure with over 250 devices and 10+ servers.
+
+* Reduced IT support tickets by 30% and increased user satisfaction by 20% through process improvements.
+
+* Achieved a 27% reduction in cybersecurity incidents with newly implemented protocols.
+
+* Delivered efficient cloud-based solutions and seamless migrations to modern cloud platforms.
+
+My extensive background in cloud infrastructure and IT support, combined with a continuous drive to improve systems and processes, positions me as a valuable asset to any organization seeking robust and innovative IT solutions. Let's connect and explore how my expertise can contribute to your success!
 
 - Please feel free to connect with me on LinkedIn to explore opportunities and discuss how I can contribute to your organization's success.
 
