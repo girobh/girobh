@@ -20,7 +20,7 @@
 
 * **Cloud Platforms:** Microsoft Azure, Google Cloud Platform (GCP), Amazon Web Services (AWS) and Oracle Cloud Infrastructure (OCI).
 
-* **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, Bash, Python.
+* **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, Bash, Python, AWS CloudFormation.
 
 * **Web Designer:** HTML, CSS, Javascript.
 
