@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **https://medium.com/@girobh**
 
-- With over two decades of extensive experience in IT and cloud infrastructure, I have honed a comprehensive skill set that encompasses everything from technical support and troubleshooting to the design and implementation of advanced cloud solutions. My career journey has allowed me to work with diverse technologies and in various roles, steadily building a reputation as a reliable, efficient, and innovative professional in the tech industry.
+- A senior IT specialist with over 20 years of experience specializing in network administration, software installation, technical project management, Cloud Computing, end-user support, and troubleshooting complex hardware and software issues. Adept at interfacing with customers and technical teams to diagnose problems and identify solutions. A strong history of defining overarching strategy and direction for IT organizations..
 
 <h1>Skills and Expertise:</h1>
 
