@@ -1,6 +1,6 @@
 <h1 align="center">Hi, 👋 Welcome to my profile! I'm Igor Araujo Lima</h1>
 
-- 📍 Born and raised in Brazil but living in Canada since 2018
+- 📍 Born and raised in Brazil, living in Canada since 2018 and now a proud Canadian citizen.
 
 - 🏢 Currently working as Senior Cloud & Devops Engineer at Thinkdox Inc.
   
