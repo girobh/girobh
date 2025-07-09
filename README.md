@@ -89,6 +89,7 @@ My extensive background in cloud infrastructure and IT support, combined with a 
   
 * Foundations Associate
 
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202025%20Foundations%20Associate.png?raw=true" alt="oci"/> </a>
 <a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202023%20Certified%20Foundations%20Associate.png?raw=true" alt="oci"/> </a>
 <a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%20Foundations%202021%20Certified%20Associate.png?raw=true" alt="oci" width="251" height="267"/> </a>
 
