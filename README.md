@@ -2,9 +2,13 @@
 
 - 📍 Born and raised in Brazil but living in Canada since 2018
 
-- 🏢 Currently working as Cloud Infrastructure Engineer at Thinkdox Inc.
+- 🏢 Currently working as Senior Cloud & Devops Engineer at Thinkdox Inc.
+  
+- 🏢 Currently working as Cloud Developer – React & Automation at Frittos & Co.
 
-- 🌱 I’m currently learning **Cloud Computing and Application at Metro College of Technology in Toronto/ON**
+- 🌱 Graduated in **Cloud Computing and Application at Metro College of Technology, Toronto/ON**
+
+- 🌱 I’m currently learning **FullStack Developer**
 
 - 📑 9x Oracle Cloud Certified | Microsoft Azure Certified
 
@@ -14,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **https://medium.com/@girobh**
 
-- A senior IT specialist with over 20 years of experience specializing in network administration, software installation, technical project management, Cloud Computing, end-user support, and troubleshooting complex hardware and software issues. Adept at interfacing with customers and technical teams to diagnose problems and identify solutions. A strong history of defining overarching strategy and direction for IT organizations..
+- Full Stack Developer & Cloud Engineer transitioning from a DevOps background to modern web and mobile development. 17+ years of experience in tech, now focused on delivering responsive and scalable applications using React, Next.js, React Native, Node.js and TypeScript. Combining deep infrastructure expertise (AWS/GCP/Azure) with frontend proficiency (React, TailwindCSS, Firebase, Redux), I build full-stack apps with clean code, performance, and real-world results. Experienced in building ecommerce platforms, dashboards, and SaaS systems with CI/CD and API integrations. Currently completing a hands-on Full Stack specialization covering 40+ real-world projects across frontend, backend, mobile, testing, and deployment with React, NestJS, Next.js and Expo.
 
 <h1>Skills and Expertise:</h1>
 
@@ -22,7 +26,7 @@
 
 * **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, Bash, Python, AWS CloudFormation.
 
-* **Web Designer:** HTML, CSS, Javascript.
+* **Web Designer:** React.js, HTML5, CSS3, JavaScript, TypeScript.
 
 * **Technical Support:** Windows, Linux, Mac OS, hardware/software troubleshooting, network connectivity.
 
