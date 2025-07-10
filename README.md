@@ -103,6 +103,7 @@ My extensive background in cloud infrastructure and IT support, combined with a 
 
 * Professional
 
+<a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202025%20Architect%20Associate.png?raw=true" alt="oci"/> </a>
 <a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202023%20Security%20Professional.png?raw=true" alt="oci"/> </a>
 <a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202023%20Certified%20DevOps%20Professional.png?raw=true" alt="oci"/> </a>
 <a href="https://www.oracle.com/ca-en/cloud/" target="_blank" rel="noreferrer"> <img src="https://github.com/girobh/Oracle_Badge/blob/main/Oracle%20Cloud%20Infrastructure%202023%20Architect%20Professional.png?raw=true" alt="oci"/> </a>
