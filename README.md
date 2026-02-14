@@ -1,14 +1,10 @@
-<h1 align="center">Hi, 👋 Welcome to my profile! I'm Igor Araujo Lima</h1>
+<h1 align="center">Hi, 👋 Welcome to my profile! I'm Igor De Araujo Lima</h1>
 
 - 📍 Born and raised in Brazil, living in Canada since 2018 and now a proud Canadian citizen.
 
-- 🏢 Currently working as Senior Cloud & Devops Engineer at Thinkdox Inc.
+- 🏢 Currently working as Engineer Specialist at Canada Life.
   
-- 🏢 Currently working as Cloud Developer – React & Automation at Frittos & Co.
-
 - 🌱 Graduated in **Cloud Computing and Application at Metro College of Technology, Toronto/ON**
-
-- 🌱 I’m currently learning **FullStack Developer**
 
 - 📑 9x Oracle Cloud Certified | Microsoft Azure Certified
 
@@ -18,7 +14,11 @@
 
 - 👨‍💻 All of my projects are available at **https://medium.com/@girobh**
 
-- Full Stack Developer & Cloud Engineer transitioning from a DevOps background to modern web and mobile development. 17+ years of experience in tech, now focused on delivering responsive and scalable applications using React, Next.js, React Native, Node.js and TypeScript. Combining deep infrastructure expertise (AWS/GCP/Azure) with frontend proficiency (React, TailwindCSS, Firebase, Redux), I build full-stack apps with clean code, performance, and real-world results. Experienced in building ecommerce platforms, dashboards, and SaaS systems with CI/CD and API integrations. Currently completing a hands-on Full Stack specialization covering 40+ real-world projects across frontend, backend, mobile, testing, and deployment with React, NestJS, Next.js and Expo.
+- Senior Cloud DevOps Engineer with 17+ years in IT and over 6 years designing and automating multi-cloud infrastructure using Terraform, Kubernetes, Docker, and CI/CD tools such as Azure DevOps, GitHub Actions, and GitLab. Proficient across Azure, AWS, GCP, and Oracle Cloud, with hands-on experience in infrastructure-as-code, cloud-native monitoring (CloudWatch, Azure Monitor, Stackdriver), and full-stack development with React, Node.js, TypeScript, and Python.
+
+- I specialize in building scalable, secure, and high-availability cloud platforms, leading projects that reduced deployment time by 50%, cut onboarding processes from hours to minutes, and optimized cost and performance in high-load environments. I've developed mission-critical systems like onboarding dashboards, backup platforms, and web apps for 1,000+ users — all built for performance, automation, and resilience.
+
+- Known for thriving in agile, fast-paced, and collaborative settings with cross-functional teams across multiple time zones. I bring a rare blend of infrastructure mastery, coding fluency, and a product mindset — positioning me as a high-impact engineer who bridges DevOps, development, and business goals.
 
 <h1>Skills and Expertise:</h1>
 
